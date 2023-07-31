@@ -1,4 +1,4 @@
-- Art and programming enthusiast
+- Art and programming enthusiast👨‍🎨👨‍💻
 - website : https://www.fraio.art
 <!---
 Fraiolefano/Fraiolefano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
