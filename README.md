@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Fraiolefano
-- 👀 I’m interested in coding, math and physics
+- Art and programming enthusiast
 - website : https://www.fraio.art
 <!---
 Fraiolefano/Fraiolefano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
